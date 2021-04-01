@@ -1,0 +1,20 @@
+[2021-04-01T15:45:18.617] [DEBUG] cheese - login => username:xiaoming,password:123456
+[2021-04-01T15:45:18.619] [DEBUG] cheese - xiaoming
+[2021-04-01T15:45:18.714] [DEBUG] cheese - null
+[2021-04-01T15:45:18.715] [DEBUG] cheese - null
+[2021-04-01T16:07:12.465] [DEBUG] cheese - login => username:xiaoming,password:123456
+[2021-04-01T16:07:12.467] [DEBUG] cheese - xiaoming
+[2021-04-01T16:07:12.579] [DEBUG] cheese - null
+[2021-04-01T16:07:12.579] [DEBUG] cheese - null
+[2021-04-01T16:08:13.109] [DEBUG] cheese - login => username:admin,password:123456
+[2021-04-01T16:08:13.109] [DEBUG] cheese - admin
+[2021-04-01T16:08:13.116] [DEBUG] cheese - null
+[2021-04-01T16:08:13.116] [DEBUG] cheese - null
+[2021-04-01T23:17:40.243] [DEBUG] cheese - login => username:admin,password:123456
+[2021-04-01T23:17:40.340] [DEBUG] cheese - admin
+[2021-04-01T23:17:40.525] [DEBUG] cheese - null
+[2021-04-01T23:17:40.526] [DEBUG] cheese - null
+[2021-04-01T23:18:14.219] [DEBUG] cheese - login => username:admin,password:123456
+[2021-04-01T23:18:14.219] [DEBUG] cheese - admin
+[2021-04-01T23:18:14.224] [DEBUG] cheese - null
+[2021-04-01T23:18:14.224] [DEBUG] cheese - null
