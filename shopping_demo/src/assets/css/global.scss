@@ -16,8 +16,32 @@ html,
 body,
 #app {
     width: 100%;
+    min-width: 320px;
     height: $height;
     margin: $margin;
     padding: $padding;
 }
 
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+#app .users>.el-card{
+    box-shadow: 5px 10px 20px 10px rgba($color: #000000, $alpha: 0.15);
+    border-radius: 5px;
+}
+.el-table{
+    margin-top: 15px;
+    font-size: 14px;
+}
+.el-table-column{
+    text-align: center;
+}
+th,
+td{
+    text-align: center !important;
+}
+.el-pagination{
+    margin-top: 15px;
+}

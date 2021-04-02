@@ -104,30 +104,12 @@ export default {
 
 <style lang="scss">
 @import "../assets/css/global.scss";
-
-@media only screen and (max-width: 540px) {
-  .login,
-  .login_box {
-    width: 100%;
-    height: 100%;
-  }
-}
-
-@media only screen and (min-width: 540px) {
-  .login {
-    min-width: 540px;
-    height: 100%;
-    margin: 0 auto;
-    .login_box {
-      width: 540px;
-    }
-  }
-}
-
 .login {
+  min-width: 320px !important;
   background-color: $color;
 }
 .login_box {
+  min-width: 320px !important;
   height: 350px;
   background-color: #fff;
   border-radius: 3px;
